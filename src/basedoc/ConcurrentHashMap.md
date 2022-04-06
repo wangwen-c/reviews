@@ -166,7 +166,7 @@ private final void treeifyBin(Node<K,V>[] tab, int index) {
 
 维护数组长度
 
-![](C:\Users\A\Desktop\2-27\image-20220406103350956.png)
+![](../picture/ConcurrentHashMap_1.png)
 
 ```java
 private final void addCount(long x, int check) {
